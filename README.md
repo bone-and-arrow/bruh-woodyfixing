@@ -2,7 +2,7 @@
 
 <div align='center' />
 
-   <img src="https://files.catbox.moe/b9fw44.webp"  align="center" width="754" />
+   <img src="https://files.catbox.moe/834ior.png"  align="center" width="754" />
 
 ㅤㅤㅤ
 
@@ -37,5 +37,8 @@ you can change the pixels freely! sometimes the gifs dont appear in the preview,
    hi shoutout to my darling wife for helping wit da layout love uu dear aww
    
 </details>
+
+<img src="(https://files.catbox.moe/m5izr3.png)"  align="center" width="754" />
+
 
 <!-- hyper was here --?
